@@ -9,7 +9,7 @@ To Run:
 1. Open project-file
 2. The live-script will open automatically. Run each section as you read.
 
-### MathWorks&reg; Products (http://www.mathworks.com)
+### MathWorks&reg; Products (https://www.mathworks.com)
 
 Requires MATLAB&reg; release R2022b or newer
 - [MATLAB&reg;](https://se.mathworks.com/products/matlab.html?s_tid=srchtitle_matlab_1)
